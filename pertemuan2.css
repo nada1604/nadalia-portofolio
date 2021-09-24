@@ -1,0 +1,37 @@
+h1{
+	text-align: center;
+	color: #ffcc99;
+	padding: 100px 100px 25px 25px;
+	margin: 100px 100px 100px 25px;
+	background: darkslateblue;
+	font-family: 'Rubik', sans-serif;
+	font-size: 30px;
+	line-height: 80%;
+
+
+}
+b{
+	text-align: center;
+	color: #ffcc99;
+	padding: 11px 11px 11px 11px;
+	margin: auto;
+	width: auto;
+	background: darkslateblue;
+	font-size: 15px;
+	font-weight: bold;
+	
+}
+body{
+	background-color:yellow;
+}
+div{
+	width: aut0;
+	height: 100px;
+	background-color: darkslateblue;
+	animation-name: example;
+	animation-duration: 4s;
+}
+
+
+
+
